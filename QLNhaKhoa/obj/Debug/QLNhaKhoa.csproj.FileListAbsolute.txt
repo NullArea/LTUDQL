@@ -1,0 +1,8 @@
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\bin\Debug\QLNhaKhoa.exe.config
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\bin\Debug\QLNhaKhoa.exe
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\bin\Debug\QLNhaKhoa.pdb
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\obj\Debug\QLNhaKhoa.csprojResolveAssemblyReference.cache
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\obj\Debug\QLNhaKhoa.Properties.Resources.resources
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\obj\Debug\QLNhaKhoa.csproj.GenerateResource.Cache
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\obj\Debug\QLNhaKhoa.exe
+C:\Users\FairyTea\Documents\GitHub\LTUDQL\QLNhaKhoa\obj\Debug\QLNhaKhoa.pdb
